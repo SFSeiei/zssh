@@ -1,0 +1,96 @@
+<component name="libraryTable">
+  <library name="jdk1.6">
+    <CLASSES>
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/applets/Animator" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/applets/ArcTest" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/applets/BarChart" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/applets/Blink" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/applets/CardTest" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/applets/Clock" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/applets/DitherTest" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/applets/DrawTest" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/applets/Fractal" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/applets/GraphLayout" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/applets/GraphicsTest" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/applets/ImageMap" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/applets/JumpingBox" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/applets/MoleculeViewer" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/applets/NervousText" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/applets/SimpleGraph" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/applets/SortDemo" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/applets/SpreadSheet" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/applets/TicTacToe" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/applets/WireFrame" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/jfc/CodePointIM/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/jfc/FileChooserDemo/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/jfc/Font2DTest/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/jfc/Java2D/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/jfc/Metalworks/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/jfc/Notepad/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/jfc/SampleTree/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/jfc/Stylepad/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/jfc/SwingApplet/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/jfc/SwingSet2/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/jfc/TableExample/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/jvmti/heapTracker/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/jvmti/minst/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/jvmti/mtrace/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/management/FullThreadDump/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/management/JTop/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/management/MemoryMonitor/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/management/VerboseGC/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/applets/Animator" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/applets/ArcTest" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/applets/BarChart" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/applets/Blink" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/applets/CardTest" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/applets/Clock" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/applets/DitherTest" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/applets/DrawTest" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/applets/Fractal" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/applets/GraphLayout" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/applets/GraphicsTest" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/applets/ImageMap" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/applets/JumpingBox" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/applets/MoleculeViewer" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/applets/NervousText" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/applets/SimpleGraph" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/applets/SortDemo" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/applets/SpreadSheet" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/applets/TicTacToe" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/applets/WireFrame" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/jfc/CodePointIM/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/jfc/FileChooserDemo/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/jfc/Font2DTest/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/jfc/Java2D/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/jfc/Metalworks/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/jfc/Notepad/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/jfc/SampleTree/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/jfc/Stylepad/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/jfc/SwingApplet/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/jfc/SwingSet2/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/plugin/jfc/TableExample/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/demo/scripting/jconsole-plugin/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/sample/javac/processing/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/sample/jmx/jmx-scandir/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/sample/jmx/jmx-scandir/test" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/sample/jnlp/corba/src/core" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/sample/jnlp/corba/src/stubs" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/sample/jnlp/jreinstaller/src/share/classes" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/sample/jnlp/raf/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/sample/jnlp/servlet/src/classes" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/sample/jnlp/webpad/src/servlet" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/sample/jnlp/webpad/src/version1" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/sample/nio/server" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/sample/scripting/scriptpad/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/sample/webservices/EbayClient/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18/sample/webservices/EbayServer/src" />
+      <root url="file://F:/Program Files (x86)/Java/jdk1.6.0_18" />
+    </SOURCES>
+    <jarDirectory url="file://F:/Program Files (x86)/Java/jdk1.6.0_18" recursive="false" type="SOURCES" />
+  </library>
+</component>
